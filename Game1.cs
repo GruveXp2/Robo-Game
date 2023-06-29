@@ -4,7 +4,7 @@ using Microsoft.Xna.Framework.Input;
 
 namespace RoboGame
 {
-    public class Game1 : Game
+    public class Game1 : Game // THIS GAME IS PRETTY EPIC!
     {
         private GraphicsDeviceManager graphics;
         private SpriteBatch spriteBatch;
